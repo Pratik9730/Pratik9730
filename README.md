@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java andPython development.
 - 🌱 I’m currently learning data Structures.
 - 💞️ I’m looking to collaborate on java.
-- 📫 How to reach me ...
+- 📫 Reach me at pratikymy@gmail.com
 
 <!---
 Pratik9730/Pratik9730 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

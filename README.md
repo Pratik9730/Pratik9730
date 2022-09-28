@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pratik9730
-- 👀 I’m interested in Java andPython development.
-- 🌱 I’m currently learning data Structures.
-- 💞️ I’m looking to collaborate on java.
+- 👀 I’m interested in DevOps & full stack
+- 🌱 I’m currently learning full stack
 - 📫 Reach me at pratikymy@gmail.com
 
 <!---

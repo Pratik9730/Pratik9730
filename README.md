@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratik9730
 - 👀 I’m interested in DevOps & full stack
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning DevOps
 - 📫 Reach me at pratikymy@gmail.com
 
 <!---
